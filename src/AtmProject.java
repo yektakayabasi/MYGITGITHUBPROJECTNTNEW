@@ -11,6 +11,9 @@ public class AtmProject {
         //version4
         System.out.println("Java öğrenmek ne kadar da zormuş");
 
+        System.out.println("Yekta branchi kodlarını yazdı");
+
+        //versiyon yk1
 
 
     }
