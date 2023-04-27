@@ -18,6 +18,8 @@ public class AtmProject {
         System.out.println("Bir kızım kodlar yazdım");
         //yk2
 
+        System.out.println("Hello word");
+        //yk3
 
     }
 
