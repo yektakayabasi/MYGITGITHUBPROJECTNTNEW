@@ -15,6 +15,9 @@ public class AtmProject {
 
         //versiyon yk1
 
+        System.out.println("Bir kızım kodlar yazdım");
+        //yk2
+
 
     }
 
