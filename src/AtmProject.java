@@ -21,6 +21,8 @@ public class AtmProject {
         System.out.println("Hello word");
         //yk3
 
+        System.out.println("Merhaba");
+
     }
 
 
