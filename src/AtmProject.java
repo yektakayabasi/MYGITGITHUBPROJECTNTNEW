@@ -26,6 +26,8 @@ public class AtmProject {
         //localde değişiklik yaptım
         
         //remoteda değişiklik yaptım.
+        
+        //Hi to all. Be nice to everyone
 
     }
 
